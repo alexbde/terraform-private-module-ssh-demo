@@ -8,4 +8,7 @@
 # .tfvars files
 *.tfvars
 
-/.idea/
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
